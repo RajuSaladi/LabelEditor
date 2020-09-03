@@ -1,0 +1,9 @@
+Beach
+Water
+Boat
+Sky
+Person
+Vehicle
+Stones
+Tower
+Others
